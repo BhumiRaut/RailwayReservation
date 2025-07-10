@@ -58,7 +58,7 @@
 ---
 
 ##Output(Screenshot)
-![Output Screenshot](C:\Users\Lenovo\eclipse-workspace\24\railwayReservation\Output.png)
+![Output Screenshot](Output.png)
 
 ## 📞 Contact Details
 - Name:Bhumi Yuvraj Raut
