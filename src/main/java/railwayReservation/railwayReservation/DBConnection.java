@@ -15,32 +15,4 @@ public class DBConnection {
         return DriverManager.getConnection(URL, USER, PASS);
     }
 
-//public static void main(String[] args)
-//{
-//createTable("railway_db","train");
-//}
-//
-//static void createdb(String DBName)
-//{
-//try{
-//Connection conn = DriverManager.getConnection(URL,USER,PASS);
-//String query = ("CREATE DATABASE "+DBName);
-//Statement stmt = conn.createStatement();
-//stmt.execute(query);
-//System.out.println("Database created");
-//stmt.close();
-//conn.close();
-//}catch(SQLException e)
-//{
-//e.printStackTrace();
-//}
-//}
-//
-////static void createTable(String DBName, String TBName)
-////{
-////try{
-////Connection conn = DriverManager.getConnection(URL,USER,PASS);
-////String createTableQuery = "CREATE TABLE IF NOT EXISTS "+TBName+"
-////}
-////}
 }
